@@ -1,3 +1,2 @@
-## LA-MACHOU
-
+## La-Machou
 Automatic beer craft
