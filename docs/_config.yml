@@ -1,6 +1,4 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-primer
 title: La-Machou
 description: Automatic Craft Beer
-logo: https://avatars2.githubusercontent.com/u/12615544?s=460&v=4
-show_downloads: false
 google_analytics: UA-143672565-1
